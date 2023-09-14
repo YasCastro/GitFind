@@ -1,0 +1,26 @@
+.conteudo {
+  position: relative;
+
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+
+.background {
+  height: 100vh;
+  position: absolute;
+  left: 0;
+}
+
+.info {
+  width: 60%;
+  margin-left:90px;
+  margin-top: 2rem;
+  color: #fff;
+}
+
+input {
+  border-radius: 1px solid #999999;
+  border-radius:1.2rem;
+  min-width:
+}
