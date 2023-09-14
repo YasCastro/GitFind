@@ -14,13 +14,44 @@
 
 .info {
   width: 60%;
-  margin-left:90px;
-  margin-top: 2rem;
+  margin-left:350px;
+  margin-top: 40px;
   color: #fff;
 }
 
 input {
-  border-radius: 1px solid #999999;
-  border-radius:1.2rem;
-  min-width:
+  border: 1px solid #999999;
+  border-radius:22px;
+  min-width: 180px;
+  width:70%;
+  margin-right:12px;
+  background: transparent;
+  font-size:18px;
+  padding:10px;
+}
+
+button {
+  border: 1px solid #999999;
+  border-radius:22px;
+  min-width: 60px;
+  width:15%;
+  margin-right:12px;
+  background:  #3B332D;
+  font-size:18px;
+  padding:10px;
+  color: #ffffff
+}
+
+.profile {
+  width: 120px;
+  border-radius: 70px;
+  margin-top: 15px;
+  margin-right: 20px;
+}
+
+.userinfo {
+  display:flex;
+  flex-direction: row;
+  justify-items:center;
+  align-items: center;
 }
